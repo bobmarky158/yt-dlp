@@ -105,7 +105,14 @@ README.txt
 *.zsh
 *.spec
 test/testdata/sigs/player-*.js
-
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.log
 # Binary
 /youtube-dl
 /youtube-dlc
